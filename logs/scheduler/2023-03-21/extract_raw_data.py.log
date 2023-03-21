@@ -1,0 +1,306 @@
+[2023-03-21 00:00:26,065] {processor.py:153} INFO - Started process (PID=1228) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:00:26,072] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:00:26,077] {logging_mixin.py:115} INFO - [2023-03-21 00:00:26,077] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:00:26,091] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:00:26,156] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.125 seconds
+[2023-03-21 00:00:56,396] {processor.py:153} INFO - Started process (PID=1285) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:00:56,397] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:00:56,401] {logging_mixin.py:115} INFO - [2023-03-21 00:00:56,401] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:00:56,407] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:00:56,431] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.039 seconds
+[2023-03-21 00:01:27,132] {processor.py:153} INFO - Started process (PID=1350) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:01:27,133] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:01:27,135] {logging_mixin.py:115} INFO - [2023-03-21 00:01:27,135] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:01:27,140] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:01:27,162] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.040 seconds
+[2023-03-21 00:01:57,949] {processor.py:153} INFO - Started process (PID=1406) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:01:57,950] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:01:57,951] {logging_mixin.py:115} INFO - [2023-03-21 00:01:57,951] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:01:57,957] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:01:57,981] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.036 seconds
+[2023-03-21 00:02:29,084] {processor.py:153} INFO - Started process (PID=1471) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:02:29,092] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:02:29,102] {logging_mixin.py:115} INFO - [2023-03-21 00:02:29,101] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:02:29,123] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:02:29,179] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.112 seconds
+[2023-03-21 00:02:59,730] {processor.py:153} INFO - Started process (PID=1527) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:02:59,731] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:02:59,733] {logging_mixin.py:115} INFO - [2023-03-21 00:02:59,733] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:02:59,737] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:02:59,758] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.034 seconds
+[2023-03-21 00:03:30,266] {processor.py:153} INFO - Started process (PID=1592) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:03:30,268] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:03:30,269] {logging_mixin.py:115} INFO - [2023-03-21 00:03:30,269] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:03:30,273] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:03:30,290] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.028 seconds
+[2023-03-21 00:04:01,002] {processor.py:153} INFO - Started process (PID=1648) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:04:01,004] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:04:01,006] {logging_mixin.py:115} INFO - [2023-03-21 00:04:01,005] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:04:01,011] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:04:01,039] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.045 seconds
+[2023-03-21 00:04:31,973] {processor.py:153} INFO - Started process (PID=1713) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:04:31,974] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:04:31,975] {logging_mixin.py:115} INFO - [2023-03-21 00:04:31,975] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:04:31,979] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:04:31,996] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.027 seconds
+[2023-03-21 00:05:02,656] {processor.py:153} INFO - Started process (PID=1769) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:05:02,658] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:05:02,659] {logging_mixin.py:115} INFO - [2023-03-21 00:05:02,659] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:05:02,663] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:05:02,681] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.028 seconds
+[2023-03-21 00:05:33,274] {processor.py:153} INFO - Started process (PID=1834) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:05:33,275] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:05:33,277] {logging_mixin.py:115} INFO - [2023-03-21 00:05:33,276] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:05:33,281] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:05:33,299] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.030 seconds
+[2023-03-21 00:06:04,241] {processor.py:153} INFO - Started process (PID=1899) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:06:04,242] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:06:04,243] {logging_mixin.py:115} INFO - [2023-03-21 00:06:04,243] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:06:04,246] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:06:04,264] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.027 seconds
+[2023-03-21 00:06:34,807] {processor.py:153} INFO - Started process (PID=1955) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:06:34,808] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:06:34,810] {logging_mixin.py:115} INFO - [2023-03-21 00:06:34,810] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:06:34,814] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:06:34,832] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.029 seconds
+[2023-03-21 00:07:05,889] {processor.py:153} INFO - Started process (PID=2020) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:07:05,890] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:07:05,891] {logging_mixin.py:115} INFO - [2023-03-21 00:07:05,891] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:07:05,895] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:07:05,914] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.029 seconds
+[2023-03-21 00:07:36,354] {processor.py:153} INFO - Started process (PID=2085) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:07:36,355] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:07:36,356] {logging_mixin.py:115} INFO - [2023-03-21 00:07:36,356] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:07:36,360] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:07:36,378] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.029 seconds
+[2023-03-21 00:08:06,409] {processor.py:153} INFO - Started process (PID=2140) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:08:06,411] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:08:06,412] {logging_mixin.py:115} INFO - [2023-03-21 00:08:06,412] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:08:06,416] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:08:06,436] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.034 seconds
+[2023-03-21 00:08:37,136] {processor.py:153} INFO - Started process (PID=2206) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:08:37,142] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:08:37,146] {logging_mixin.py:115} INFO - [2023-03-21 00:08:37,146] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:08:37,161] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:08:37,199] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.079 seconds
+[2023-03-21 00:09:07,613] {processor.py:153} INFO - Started process (PID=2271) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:09:07,614] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:09:07,615] {logging_mixin.py:115} INFO - [2023-03-21 00:09:07,615] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:09:07,618] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:09:07,635] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.027 seconds
+[2023-03-21 00:09:37,892] {processor.py:153} INFO - Started process (PID=2327) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:09:37,894] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:09:37,895] {logging_mixin.py:115} INFO - [2023-03-21 00:09:37,895] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:09:37,899] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:09:37,918] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.030 seconds
+[2023-03-21 00:10:08,697] {processor.py:153} INFO - Started process (PID=2392) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:10:08,698] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:10:08,699] {logging_mixin.py:115} INFO - [2023-03-21 00:10:08,699] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:10:08,702] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:10:08,720] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.027 seconds
+[2023-03-21 00:10:38,869] {processor.py:153} INFO - Started process (PID=2455) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:10:38,870] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:10:38,871] {logging_mixin.py:115} INFO - [2023-03-21 00:10:38,871] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:10:38,875] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:10:38,893] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.028 seconds
+[2023-03-21 00:11:09,211] {processor.py:153} INFO - Started process (PID=2513) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:11:09,212] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:11:09,214] {logging_mixin.py:115} INFO - [2023-03-21 00:11:09,213] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:11:09,217] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:11:09,235] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.028 seconds
+[2023-03-21 00:11:39,268] {processor.py:153} INFO - Started process (PID=2577) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:11:39,271] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:11:39,273] {logging_mixin.py:115} INFO - [2023-03-21 00:11:39,272] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:11:39,277] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:11:39,301] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.038 seconds
+[2023-03-21 00:12:09,398] {processor.py:153} INFO - Started process (PID=2632) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:12:09,399] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:12:09,401] {logging_mixin.py:115} INFO - [2023-03-21 00:12:09,401] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:12:09,406] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:12:09,425] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.033 seconds
+[2023-03-21 00:12:39,848] {processor.py:153} INFO - Started process (PID=2697) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:12:39,850] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:12:39,852] {logging_mixin.py:115} INFO - [2023-03-21 00:12:39,852] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:12:39,856] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:12:39,876] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.032 seconds
+[2023-03-21 00:13:10,378] {processor.py:153} INFO - Started process (PID=2762) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:13:10,379] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:13:10,381] {logging_mixin.py:115} INFO - [2023-03-21 00:13:10,381] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:13:10,385] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:13:10,402] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.029 seconds
+[2023-03-21 00:13:40,809] {processor.py:153} INFO - Started process (PID=2818) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:13:40,811] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:13:40,813] {logging_mixin.py:115} INFO - [2023-03-21 00:13:40,813] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:13:40,822] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:13:40,857] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.052 seconds
+[2023-03-21 00:14:11,142] {processor.py:153} INFO - Started process (PID=2882) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:14:11,146] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:14:11,148] {logging_mixin.py:115} INFO - [2023-03-21 00:14:11,148] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:14:11,157] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:14:11,206] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.070 seconds
+[2023-03-21 00:14:41,669] {processor.py:153} INFO - Started process (PID=2947) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:14:41,671] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:14:41,672] {logging_mixin.py:115} INFO - [2023-03-21 00:14:41,672] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:14:41,676] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:14:41,695] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.029 seconds
+[2023-03-21 00:15:12,070] {processor.py:153} INFO - Started process (PID=3003) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:15:12,072] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:15:12,073] {logging_mixin.py:115} INFO - [2023-03-21 00:15:12,073] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:15:12,079] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:15:12,097] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.033 seconds
+[2023-03-21 00:15:42,678] {processor.py:153} INFO - Started process (PID=3068) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:15:42,680] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:15:42,682] {logging_mixin.py:115} INFO - [2023-03-21 00:15:42,681] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:15:42,687] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:15:42,704] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.030 seconds
+[2023-03-21 00:16:12,916] {processor.py:153} INFO - Started process (PID=3133) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:16:12,918] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:16:12,919] {logging_mixin.py:115} INFO - [2023-03-21 00:16:12,919] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:16:12,923] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:16:12,942] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.030 seconds
+[2023-03-21 00:16:43,244] {processor.py:153} INFO - Started process (PID=3189) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:16:43,246] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:16:43,248] {logging_mixin.py:115} INFO - [2023-03-21 00:16:43,247] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:16:43,253] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:16:43,270] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.029 seconds
+[2023-03-21 00:17:13,702] {processor.py:153} INFO - Started process (PID=3254) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:17:13,704] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:17:13,705] {logging_mixin.py:115} INFO - [2023-03-21 00:17:13,705] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:17:13,710] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:17:13,728] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.030 seconds
+[2023-03-21 00:17:44,035] {processor.py:153} INFO - Started process (PID=3319) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:17:44,037] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:17:44,038] {logging_mixin.py:115} INFO - [2023-03-21 00:17:44,038] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:17:44,042] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:17:44,060] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.029 seconds
+[2023-03-21 00:18:14,765] {processor.py:153} INFO - Started process (PID=3375) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:18:14,767] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:18:14,768] {logging_mixin.py:115} INFO - [2023-03-21 00:18:14,768] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:18:14,771] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:18:14,789] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.028 seconds
+[2023-03-21 00:18:44,972] {processor.py:153} INFO - Started process (PID=3440) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:18:44,974] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:18:44,975] {logging_mixin.py:115} INFO - [2023-03-21 00:18:44,975] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:18:44,979] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:18:44,997] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.028 seconds
+[2023-03-21 00:19:15,227] {processor.py:153} INFO - Started process (PID=3505) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:19:15,229] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:19:15,230] {logging_mixin.py:115} INFO - [2023-03-21 00:19:15,230] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:19:15,236] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:19:15,252] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.029 seconds
+[2023-03-21 00:19:45,585] {processor.py:153} INFO - Started process (PID=3561) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:19:45,588] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:19:45,590] {logging_mixin.py:115} INFO - [2023-03-21 00:19:45,590] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:19:45,597] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:19:45,631] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.052 seconds
+[2023-03-21 00:20:16,087] {processor.py:153} INFO - Started process (PID=3626) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:20:16,089] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:20:16,090] {logging_mixin.py:115} INFO - [2023-03-21 00:20:16,090] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:20:16,094] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:20:16,111] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.029 seconds
+[2023-03-21 00:20:46,766] {processor.py:153} INFO - Started process (PID=3692) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:20:46,767] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:20:46,769] {logging_mixin.py:115} INFO - [2023-03-21 00:20:46,768] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:20:46,774] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:20:46,796] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.033 seconds
+[2023-03-21 00:21:17,195] {processor.py:153} INFO - Started process (PID=3748) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:21:17,196] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:21:17,197] {logging_mixin.py:115} INFO - [2023-03-21 00:21:17,197] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:21:17,201] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:21:17,220] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.030 seconds
+[2023-03-21 00:21:47,637] {processor.py:153} INFO - Started process (PID=3813) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:21:47,639] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:21:47,640] {logging_mixin.py:115} INFO - [2023-03-21 00:21:47,640] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:21:47,645] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:21:47,664] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.032 seconds
+[2023-03-21 00:22:17,869] {processor.py:153} INFO - Started process (PID=3869) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:22:17,871] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:22:17,874] {logging_mixin.py:115} INFO - [2023-03-21 00:22:17,874] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:22:17,880] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:22:17,899] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.034 seconds
+[2023-03-21 00:22:48,122] {processor.py:153} INFO - Started process (PID=3934) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:22:48,124] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:22:48,125] {logging_mixin.py:115} INFO - [2023-03-21 00:22:48,124] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:22:48,129] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:22:48,148] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.030 seconds
+[2023-03-21 00:23:18,530] {processor.py:153} INFO - Started process (PID=3999) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:23:18,531] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:23:18,532] {logging_mixin.py:115} INFO - [2023-03-21 00:23:18,531] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:23:18,535] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:23:18,551] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.026 seconds
+[2023-03-21 00:23:48,958] {processor.py:153} INFO - Started process (PID=4055) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:23:48,959] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:23:48,961] {logging_mixin.py:115} INFO - [2023-03-21 00:23:48,961] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:23:48,965] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:23:48,985] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.033 seconds
+[2023-03-21 00:24:19,243] {processor.py:153} INFO - Started process (PID=4120) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:24:19,244] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:24:19,246] {logging_mixin.py:115} INFO - [2023-03-21 00:24:19,245] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:24:19,250] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:24:19,269] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.031 seconds
+[2023-03-21 00:24:49,572] {processor.py:153} INFO - Started process (PID=4185) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:24:49,573] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:24:49,575] {logging_mixin.py:115} INFO - [2023-03-21 00:24:49,575] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:24:49,579] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:24:49,599] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.032 seconds
+[2023-03-21 00:25:20,294] {processor.py:153} INFO - Started process (PID=4241) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:25:20,295] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:25:20,296] {logging_mixin.py:115} INFO - [2023-03-21 00:25:20,296] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:25:20,299] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:25:20,320] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.030 seconds
+[2023-03-21 00:25:50,491] {processor.py:153} INFO - Started process (PID=4306) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:25:50,492] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:25:50,493] {logging_mixin.py:115} INFO - [2023-03-21 00:25:50,493] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:25:50,497] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:25:50,516] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.029 seconds
+[2023-03-21 00:26:20,844] {processor.py:153} INFO - Started process (PID=4371) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:26:20,847] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:26:20,848] {logging_mixin.py:115} INFO - [2023-03-21 00:26:20,848] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:26:20,853] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:26:20,870] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.031 seconds
+[2023-03-21 00:26:51,203] {processor.py:153} INFO - Started process (PID=4427) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:26:51,205] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:26:51,206] {logging_mixin.py:115} INFO - [2023-03-21 00:26:51,206] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:26:51,209] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:26:51,225] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.026 seconds
+[2023-03-21 00:27:21,703] {processor.py:153} INFO - Started process (PID=4492) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:27:21,704] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:27:21,705] {logging_mixin.py:115} INFO - [2023-03-21 00:27:21,705] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:27:21,710] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:27:21,731] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.033 seconds
+[2023-03-21 00:27:52,089] {processor.py:153} INFO - Started process (PID=4557) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:27:52,090] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:27:52,092] {logging_mixin.py:115} INFO - [2023-03-21 00:27:52,091] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:27:52,097] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:27:52,119] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.033 seconds
+[2023-03-21 00:28:22,517] {processor.py:153} INFO - Started process (PID=4612) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:28:22,519] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:28:22,521] {logging_mixin.py:115} INFO - [2023-03-21 00:28:22,521] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:28:22,525] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:28:22,545] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.033 seconds
+[2023-03-21 00:28:52,901] {processor.py:153} INFO - Started process (PID=4676) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:28:52,903] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:28:52,904] {logging_mixin.py:115} INFO - [2023-03-21 00:28:52,904] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:28:52,909] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:28:52,930] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.035 seconds
+[2023-03-21 00:29:23,419] {processor.py:153} INFO - Started process (PID=4732) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:29:23,428] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:29:23,431] {logging_mixin.py:115} INFO - [2023-03-21 00:29:23,431] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:29:23,441] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:29:23,484] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.100 seconds
+[2023-03-21 00:29:54,200] {processor.py:153} INFO - Started process (PID=4797) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:29:54,201] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:29:54,202] {logging_mixin.py:115} INFO - [2023-03-21 00:29:54,202] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:29:54,206] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:29:54,224] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.029 seconds
+[2023-03-21 00:30:24,742] {processor.py:153} INFO - Started process (PID=4862) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:30:24,744] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:30:24,748] {logging_mixin.py:115} INFO - [2023-03-21 00:30:24,747] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:30:24,757] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:30:24,808] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.074 seconds
+[2023-03-21 00:30:36,574] {processor.py:153} INFO - Started process (PID=4909) to work on /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:30:36,578] {processor.py:641} INFO - Processing file /opt/airflow/dags/extract_raw_data.py for tasks to queue
+[2023-03-21 00:30:36,583] {logging_mixin.py:115} INFO - [2023-03-21 00:30:36,582] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:30:36,594] {logging_mixin.py:115} INFO - [2023-03-21 00:30:36,592] {dagbag.py:300} INFO - File /opt/airflow/dags/extract_raw_data.py assumed to contain no DAGs. Skipping.
+[2023-03-21 00:30:36,602] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_raw_data.py
+[2023-03-21 00:30:36,705] {processor.py:161} INFO - Processing /opt/airflow/dags/extract_raw_data.py took 0.140 seconds

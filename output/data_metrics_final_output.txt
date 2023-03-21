@@ -1,0 +1,3 @@
+Unique users: 1000
+Most represented country: China ; with users count: 202 
+Least represented country: Paraguay ; with users count: 1 

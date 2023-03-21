@@ -1,0 +1,33 @@
+[2023-03-21 01:29:36,726] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: dag_oetker_app.run_data_cleansed manual__2023-03-21T01:29:34.992044+00:00 [queued]>
+[2023-03-21 01:29:36,737] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: dag_oetker_app.run_data_cleansed manual__2023-03-21T01:29:34.992044+00:00 [queued]>
+[2023-03-21 01:29:36,738] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2023-03-21 01:29:36,738] {taskinstance.py:1357} INFO - Starting attempt 1 of 1
+[2023-03-21 01:29:36,739] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2023-03-21 01:29:36,754] {taskinstance.py:1377} INFO - Executing <Task(PythonOperator): run_data_cleansed> on 2023-03-21 01:29:34.992044+00:00
+[2023-03-21 01:29:36,761] {standard_task_runner.py:52} INFO - Started process 1144 to run task
+[2023-03-21 01:29:36,765] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'dag_oetker_app', 'run_data_cleansed', 'manual__2023-03-21T01:29:34.992044+00:00', '--job-id', '12', '--raw', '--subdir', 'DAGS_FOLDER/dag_oetker_app.py', '--cfg-path', '/tmp/tmpr9mexkw2', '--error-file', '/tmp/tmp4limtdqy']
+[2023-03-21 01:29:36,766] {standard_task_runner.py:80} INFO - Job 12: Subtask run_data_cleansed
+[2023-03-21 01:29:36,827] {task_command.py:369} INFO - Running <TaskInstance: dag_oetker_app.run_data_cleansed manual__2023-03-21T01:29:34.992044+00:00 [running]> on host ec81750b2a36
+[2023-03-21 01:29:36,896] {taskinstance.py:1571} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=julia
+AIRFLOW_CTX_DAG_ID=dag_oetker_app
+AIRFLOW_CTX_TASK_ID=run_data_cleansed
+AIRFLOW_CTX_EXECUTION_DATE=2023-03-21T01:29:34.992044+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2023-03-21T01:29:34.992044+00:00
+[2023-03-21 01:29:46,265] {logging_mixin.py:115} INFO - +-----------+----------+--------------------+----------+------+---+--------------+---------+-------------------+
+|    country|      date|               email|first_name|gender| id|    ip_address|last_name|is_valid_ip_address|
++-----------+----------+--------------------+----------+------+---+--------------+---------+-------------------+
+|     France|2018-05-06|bkittel0@printfri...|   BARTHEL|  MALE|  1|130.187.82.195|   KITTEL|     130.187.82.195|
+|Philippines|2018-02-23|ldrain1@earthlink...|       LOY|  MALE|  2|  218.176.26.2|    DRAIN|       218.176.26.2|
+|      China|2018-08-27|  wbacchus2@1688.com|   WILHELM|  MALE|  3| 50.76.199.147|  BACCHUS|      50.76.199.147|
+|      China|2017-11-21|mpaynton3@marriot...|     MEGEN|FEMALE|  4|   38.166.3.43|  PAYNTON|        38.166.3.43|
+|      China|2017-10-23| hgaylard4@apple.com|     HELLI|FEMALE|  5|76.167.186.208|  GAYLARD|     76.167.186.208|
++-----------+----------+--------------------+----------+------+---+--------------+---------+-------------------+
+only showing top 5 rows
+[2023-03-21 01:29:47,370] {python.py:173} INFO - Done. Returned value was: None
+[2023-03-21 01:29:47,388] {taskinstance.py:1400} INFO - Marking task as SUCCESS. dag_id=dag_oetker_app, task_id=run_data_cleansed, execution_date=20230321T012934, start_date=20230321T012936, end_date=20230321T012947
+[2023-03-21 01:29:47,462] {local_task_job.py:156} INFO - Task exited with return code 0
+[2023-03-21 01:29:47,513] {local_task_job.py:273} INFO - 1 downstream tasks scheduled from follow-on schedule check

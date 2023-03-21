@@ -1,0 +1,723 @@
+[2023-03-21 00:00:22,524] {processor.py:153} INFO - Started process (PID=1218) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:00:22,526] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:00:22,527] {logging_mixin.py:115} INFO - [2023-03-21 00:00:22,526] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:00:25,378] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:00:25,561] {logging_mixin.py:115} INFO - [2023-03-21 00:00:25,561] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:00:25,754] {logging_mixin.py:115} INFO - [2023-03-21 00:00:25,754] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:00:25,840] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 3.320 seconds
+[2023-03-21 00:00:56,141] {processor.py:153} INFO - Started process (PID=1283) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:00:56,143] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:00:56,144] {logging_mixin.py:115} INFO - [2023-03-21 00:00:56,144] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:00:56,355] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:00:56,375] {logging_mixin.py:115} INFO - [2023-03-21 00:00:56,375] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:00:56,397] {logging_mixin.py:115} INFO - [2023-03-21 00:00:56,397] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:00:56,418] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.281 seconds
+[2023-03-21 00:01:26,696] {processor.py:153} INFO - Started process (PID=1348) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:01:26,698] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:01:26,699] {logging_mixin.py:115} INFO - [2023-03-21 00:01:26,699] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:01:27,062] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:01:27,102] {logging_mixin.py:115} INFO - [2023-03-21 00:01:27,102] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:01:27,137] {logging_mixin.py:115} INFO - [2023-03-21 00:01:27,137] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:01:27,148] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.456 seconds
+[2023-03-21 00:01:57,686] {processor.py:153} INFO - Started process (PID=1404) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:01:57,687] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:01:57,689] {logging_mixin.py:115} INFO - [2023-03-21 00:01:57,689] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:01:57,907] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:01:57,929] {logging_mixin.py:115} INFO - [2023-03-21 00:01:57,929] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:01:57,951] {logging_mixin.py:115} INFO - [2023-03-21 00:01:57,951] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:01:57,964] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.283 seconds
+[2023-03-21 00:02:28,162] {processor.py:153} INFO - Started process (PID=1469) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:02:28,168] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:02:28,173] {logging_mixin.py:115} INFO - [2023-03-21 00:02:28,171] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:02:28,946] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:02:29,032] {logging_mixin.py:115} INFO - [2023-03-21 00:02:29,030] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:02:29,168] {logging_mixin.py:115} INFO - [2023-03-21 00:02:29,167] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:02:29,224] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 1.069 seconds
+[2023-03-21 00:02:59,433] {processor.py:153} INFO - Started process (PID=1525) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:02:59,435] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:02:59,436] {logging_mixin.py:115} INFO - [2023-03-21 00:02:59,436] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:02:59,665] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:02:59,703] {logging_mixin.py:115} INFO - [2023-03-21 00:02:59,703] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:02:59,737] {logging_mixin.py:115} INFO - [2023-03-21 00:02:59,737] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:02:59,749] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.321 seconds
+[2023-03-21 00:03:29,849] {processor.py:153} INFO - Started process (PID=1590) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:03:29,854] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:03:29,861] {logging_mixin.py:115} INFO - [2023-03-21 00:03:29,860] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:03:30,224] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:03:30,251] {logging_mixin.py:115} INFO - [2023-03-21 00:03:30,250] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:03:30,277] {logging_mixin.py:115} INFO - [2023-03-21 00:03:30,277] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:03:30,287] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.449 seconds
+[2023-03-21 00:04:00,995] {processor.py:153} INFO - Started process (PID=1647) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:04:00,997] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:04:01,000] {logging_mixin.py:115} INFO - [2023-03-21 00:04:00,999] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:04:01,213] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:04:01,232] {logging_mixin.py:115} INFO - [2023-03-21 00:04:01,232] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:04:01,253] {logging_mixin.py:115} INFO - [2023-03-21 00:04:01,253] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:04:01,264] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.275 seconds
+[2023-03-21 00:04:31,729] {processor.py:153} INFO - Started process (PID=1711) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:04:31,730] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:04:31,731] {logging_mixin.py:115} INFO - [2023-03-21 00:04:31,731] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:04:31,932] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:04:31,953] {logging_mixin.py:115} INFO - [2023-03-21 00:04:31,953] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:04:31,976] {logging_mixin.py:115} INFO - [2023-03-21 00:04:31,976] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:04:31,985] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.261 seconds
+[2023-03-21 00:05:02,399] {processor.py:153} INFO - Started process (PID=1767) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:05:02,401] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:05:02,402] {logging_mixin.py:115} INFO - [2023-03-21 00:05:02,402] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:05:02,616] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:05:02,638] {logging_mixin.py:115} INFO - [2023-03-21 00:05:02,638] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:05:02,661] {logging_mixin.py:115} INFO - [2023-03-21 00:05:02,661] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:05:02,671] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.279 seconds
+[2023-03-21 00:05:33,012] {processor.py:153} INFO - Started process (PID=1832) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:05:33,014] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:05:33,015] {logging_mixin.py:115} INFO - [2023-03-21 00:05:33,015] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:05:33,228] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:05:33,252] {logging_mixin.py:115} INFO - [2023-03-21 00:05:33,251] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:05:33,280] {logging_mixin.py:115} INFO - [2023-03-21 00:05:33,280] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:05:33,290] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.282 seconds
+[2023-03-21 00:06:04,127] {processor.py:153} INFO - Started process (PID=1897) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:06:04,128] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:06:04,130] {logging_mixin.py:115} INFO - [2023-03-21 00:06:04,130] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:06:04,206] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:06:04,234] {logging_mixin.py:115} INFO - [2023-03-21 00:06:04,234] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:06:04,259] {logging_mixin.py:115} INFO - [2023-03-21 00:06:04,259] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:06:04,269] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.148 seconds
+[2023-03-21 00:06:34,691] {processor.py:153} INFO - Started process (PID=1953) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:06:34,693] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:06:34,694] {logging_mixin.py:115} INFO - [2023-03-21 00:06:34,694] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:06:34,772] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:06:34,802] {logging_mixin.py:115} INFO - [2023-03-21 00:06:34,802] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:06:34,829] {logging_mixin.py:115} INFO - [2023-03-21 00:06:34,829] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:06:34,840] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.154 seconds
+[2023-03-21 00:07:05,725] {processor.py:153} INFO - Started process (PID=2018) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:07:05,726] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:07:05,728] {logging_mixin.py:115} INFO - [2023-03-21 00:07:05,728] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:07:05,840] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:07:05,875] {logging_mixin.py:115} INFO - [2023-03-21 00:07:05,875] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:07:05,901] {logging_mixin.py:115} INFO - [2023-03-21 00:07:05,901] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:07:05,912] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.193 seconds
+[2023-03-21 00:07:36,220] {processor.py:153} INFO - Started process (PID=2083) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:07:36,221] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:07:36,223] {logging_mixin.py:115} INFO - [2023-03-21 00:07:36,222] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:07:36,309] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:07:36,345] {logging_mixin.py:115} INFO - [2023-03-21 00:07:36,345] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:07:36,371] {logging_mixin.py:115} INFO - [2023-03-21 00:07:36,371] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:07:36,382] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.167 seconds
+[2023-03-21 00:08:06,460] {processor.py:153} INFO - Started process (PID=2141) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:08:06,461] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:08:06,462] {logging_mixin.py:115} INFO - [2023-03-21 00:08:06,462] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:08:06,551] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:08:06,586] {logging_mixin.py:115} INFO - [2023-03-21 00:08:06,586] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:08:06,620] {logging_mixin.py:115} INFO - [2023-03-21 00:08:06,620] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:08:06,630] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.175 seconds
+[2023-03-21 00:08:36,806] {processor.py:153} INFO - Started process (PID=2204) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:08:36,807] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:08:36,808] {logging_mixin.py:115} INFO - [2023-03-21 00:08:36,808] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:08:37,046] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:08:37,125] {logging_mixin.py:115} INFO - [2023-03-21 00:08:37,125] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:08:37,200] {logging_mixin.py:115} INFO - [2023-03-21 00:08:37,200] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:08:37,225] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.425 seconds
+[2023-03-21 00:09:07,506] {processor.py:153} INFO - Started process (PID=2269) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:09:07,507] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:09:07,508] {logging_mixin.py:115} INFO - [2023-03-21 00:09:07,508] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:09:07,578] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:09:07,605] {logging_mixin.py:115} INFO - [2023-03-21 00:09:07,605] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:09:07,630] {logging_mixin.py:115} INFO - [2023-03-21 00:09:07,630] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:09:07,640] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.139 seconds
+[2023-03-21 00:09:37,759] {processor.py:153} INFO - Started process (PID=2325) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:09:37,761] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:09:37,762] {logging_mixin.py:115} INFO - [2023-03-21 00:09:37,762] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:09:37,852] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:09:37,881] {logging_mixin.py:115} INFO - [2023-03-21 00:09:37,881] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:09:37,907] {logging_mixin.py:115} INFO - [2023-03-21 00:09:37,907] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:09:37,917] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.166 seconds
+[2023-03-21 00:10:08,585] {processor.py:153} INFO - Started process (PID=2390) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:10:08,586] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:10:08,587] {logging_mixin.py:115} INFO - [2023-03-21 00:10:08,587] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:10:08,659] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:10:08,684] {logging_mixin.py:115} INFO - [2023-03-21 00:10:08,684] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:10:08,708] {logging_mixin.py:115} INFO - [2023-03-21 00:10:08,708] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:10:08,718] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.138 seconds
+[2023-03-21 00:10:38,757] {processor.py:153} INFO - Started process (PID=2454) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:10:38,758] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:10:38,760] {logging_mixin.py:115} INFO - [2023-03-21 00:10:38,760] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:10:38,851] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:10:38,884] {logging_mixin.py:115} INFO - [2023-03-21 00:10:38,884] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:10:38,915] {logging_mixin.py:115} INFO - [2023-03-21 00:10:38,915] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:10:38,925] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.173 seconds
+[2023-03-21 00:11:09,094] {processor.py:153} INFO - Started process (PID=2511) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:11:09,096] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:11:09,097] {logging_mixin.py:115} INFO - [2023-03-21 00:11:09,097] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:11:09,179] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:11:09,207] {logging_mixin.py:115} INFO - [2023-03-21 00:11:09,207] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:11:09,232] {logging_mixin.py:115} INFO - [2023-03-21 00:11:09,231] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:11:09,242] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.152 seconds
+[2023-03-21 00:11:39,377] {processor.py:153} INFO - Started process (PID=2578) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:11:39,380] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:11:39,383] {logging_mixin.py:115} INFO - [2023-03-21 00:11:39,383] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:11:39,518] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:11:39,545] {logging_mixin.py:115} INFO - [2023-03-21 00:11:39,545] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:11:39,569] {logging_mixin.py:115} INFO - [2023-03-21 00:11:39,569] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:11:39,580] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.216 seconds
+[2023-03-21 00:12:10,407] {processor.py:153} INFO - Started process (PID=2633) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:12:10,422] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:12:10,424] {logging_mixin.py:115} INFO - [2023-03-21 00:12:10,424] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:12:10,506] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:12:10,548] {logging_mixin.py:115} INFO - [2023-03-21 00:12:10,548] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:12:10,581] {logging_mixin.py:115} INFO - [2023-03-21 00:12:10,581] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:12:10,596] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.194 seconds
+[2023-03-21 00:12:40,860] {processor.py:153} INFO - Started process (PID=2698) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:12:40,865] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:12:40,866] {logging_mixin.py:115} INFO - [2023-03-21 00:12:40,866] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:12:40,950] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:12:40,979] {logging_mixin.py:115} INFO - [2023-03-21 00:12:40,979] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:12:41,006] {logging_mixin.py:115} INFO - [2023-03-21 00:12:41,006] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:12:41,016] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.161 seconds
+[2023-03-21 00:13:11,402] {processor.py:153} INFO - Started process (PID=2763) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:13:11,404] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:13:11,406] {logging_mixin.py:115} INFO - [2023-03-21 00:13:11,406] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:13:11,489] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:13:11,519] {logging_mixin.py:115} INFO - [2023-03-21 00:13:11,519] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:13:11,546] {logging_mixin.py:115} INFO - [2023-03-21 00:13:11,545] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:13:11,555] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.160 seconds
+[2023-03-21 00:13:41,831] {processor.py:153} INFO - Started process (PID=2819) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:13:41,833] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:13:41,834] {logging_mixin.py:115} INFO - [2023-03-21 00:13:41,834] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:13:41,909] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:13:41,939] {logging_mixin.py:115} INFO - [2023-03-21 00:13:41,939] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:13:41,963] {logging_mixin.py:115} INFO - [2023-03-21 00:13:41,963] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:13:41,973] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.146 seconds
+[2023-03-21 00:14:12,152] {processor.py:153} INFO - Started process (PID=2883) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:14:12,153] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:14:12,154] {logging_mixin.py:115} INFO - [2023-03-21 00:14:12,154] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:14:12,226] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:14:12,259] {logging_mixin.py:115} INFO - [2023-03-21 00:14:12,259] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:14:12,283] {logging_mixin.py:115} INFO - [2023-03-21 00:14:12,283] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:14:12,293] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.146 seconds
+[2023-03-21 00:14:42,685] {processor.py:153} INFO - Started process (PID=2948) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:14:42,686] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:14:42,688] {logging_mixin.py:115} INFO - [2023-03-21 00:14:42,687] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:14:42,769] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:14:42,796] {logging_mixin.py:115} INFO - [2023-03-21 00:14:42,796] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:14:42,820] {logging_mixin.py:115} INFO - [2023-03-21 00:14:42,820] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:14:42,831] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.151 seconds
+[2023-03-21 00:15:13,093] {processor.py:153} INFO - Started process (PID=3004) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:15:13,095] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:15:13,096] {logging_mixin.py:115} INFO - [2023-03-21 00:15:13,096] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:15:13,170] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:15:13,196] {logging_mixin.py:115} INFO - [2023-03-21 00:15:13,196] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:15:13,220] {logging_mixin.py:115} INFO - [2023-03-21 00:15:13,220] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:15:13,230] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.141 seconds
+[2023-03-21 00:15:43,693] {processor.py:153} INFO - Started process (PID=3069) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:15:43,695] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:15:43,696] {logging_mixin.py:115} INFO - [2023-03-21 00:15:43,696] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:15:43,773] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:15:43,800] {logging_mixin.py:115} INFO - [2023-03-21 00:15:43,800] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:15:43,824] {logging_mixin.py:115} INFO - [2023-03-21 00:15:43,824] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:15:43,834] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.147 seconds
+[2023-03-21 00:16:13,931] {processor.py:153} INFO - Started process (PID=3134) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:16:13,932] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:16:13,934] {logging_mixin.py:115} INFO - [2023-03-21 00:16:13,934] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:16:14,008] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:16:14,041] {logging_mixin.py:115} INFO - [2023-03-21 00:16:14,041] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:16:14,070] {logging_mixin.py:115} INFO - [2023-03-21 00:16:14,070] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:16:14,082] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.156 seconds
+[2023-03-21 00:16:44,257] {processor.py:153} INFO - Started process (PID=3190) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:16:44,259] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:16:44,260] {logging_mixin.py:115} INFO - [2023-03-21 00:16:44,260] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:16:44,333] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:16:44,360] {logging_mixin.py:115} INFO - [2023-03-21 00:16:44,360] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:16:44,385] {logging_mixin.py:115} INFO - [2023-03-21 00:16:44,385] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:16:44,397] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.145 seconds
+[2023-03-21 00:17:14,719] {processor.py:153} INFO - Started process (PID=3255) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:17:14,721] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:17:14,722] {logging_mixin.py:115} INFO - [2023-03-21 00:17:14,722] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:17:14,792] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:17:14,818] {logging_mixin.py:115} INFO - [2023-03-21 00:17:14,818] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:17:14,842] {logging_mixin.py:115} INFO - [2023-03-21 00:17:14,842] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:17:14,853] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.142 seconds
+[2023-03-21 00:17:45,050] {processor.py:153} INFO - Started process (PID=3320) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:17:45,051] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:17:45,053] {logging_mixin.py:115} INFO - [2023-03-21 00:17:45,053] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:17:45,127] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:17:45,133] {logging_mixin.py:115} INFO - [2023-03-21 00:17:45,133] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:17:45,158] {logging_mixin.py:115} INFO - [2023-03-21 00:17:45,157] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:17:45,168] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.144 seconds
+[2023-03-21 00:18:15,778] {processor.py:153} INFO - Started process (PID=3376) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:18:15,780] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:18:15,782] {logging_mixin.py:115} INFO - [2023-03-21 00:18:15,782] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:18:15,926] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:18:16,023] {logging_mixin.py:115} INFO - [2023-03-21 00:18:16,023] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:18:16,109] {logging_mixin.py:115} INFO - [2023-03-21 00:18:16,109] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:18:16,155] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.385 seconds
+[2023-03-21 00:18:47,011] {processor.py:153} INFO - Started process (PID=3442) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:18:47,013] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:18:47,014] {logging_mixin.py:115} INFO - [2023-03-21 00:18:47,014] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:18:47,115] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:18:47,148] {logging_mixin.py:115} INFO - [2023-03-21 00:18:47,148] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:18:47,177] {logging_mixin.py:115} INFO - [2023-03-21 00:18:47,177] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:18:47,190] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.184 seconds
+[2023-03-21 00:19:17,287] {processor.py:153} INFO - Started process (PID=3507) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:19:17,288] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:19:17,289] {logging_mixin.py:115} INFO - [2023-03-21 00:19:17,289] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:19:17,365] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:19:17,392] {logging_mixin.py:115} INFO - [2023-03-21 00:19:17,392] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:19:17,416] {logging_mixin.py:115} INFO - [2023-03-21 00:19:17,416] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:19:17,426] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.144 seconds
+[2023-03-21 00:19:47,669] {processor.py:153} INFO - Started process (PID=3563) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:19:47,671] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:19:47,672] {logging_mixin.py:115} INFO - [2023-03-21 00:19:47,672] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:19:47,746] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:19:47,773] {logging_mixin.py:115} INFO - [2023-03-21 00:19:47,773] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:19:47,797] {logging_mixin.py:115} INFO - [2023-03-21 00:19:47,797] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:19:47,808] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.145 seconds
+[2023-03-21 00:20:18,152] {processor.py:153} INFO - Started process (PID=3628) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:20:18,155] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:20:18,156] {logging_mixin.py:115} INFO - [2023-03-21 00:20:18,156] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:20:18,233] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:20:18,261] {logging_mixin.py:115} INFO - [2023-03-21 00:20:18,261] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:20:18,288] {logging_mixin.py:115} INFO - [2023-03-21 00:20:18,288] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:20:18,298] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.152 seconds
+[2023-03-21 00:20:48,833] {processor.py:153} INFO - Started process (PID=3694) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:20:48,834] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:20:48,835] {logging_mixin.py:115} INFO - [2023-03-21 00:20:48,835] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:20:48,910] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:20:48,937] {logging_mixin.py:115} INFO - [2023-03-21 00:20:48,937] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:20:48,960] {logging_mixin.py:115} INFO - [2023-03-21 00:20:48,960] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:20:48,971] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.144 seconds
+[2023-03-21 00:21:19,248] {processor.py:153} INFO - Started process (PID=3750) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:21:19,249] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:21:19,250] {logging_mixin.py:115} INFO - [2023-03-21 00:21:19,250] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:21:19,322] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:21:19,350] {logging_mixin.py:115} INFO - [2023-03-21 00:21:19,350] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:21:19,376] {logging_mixin.py:115} INFO - [2023-03-21 00:21:19,376] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:21:19,386] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.144 seconds
+[2023-03-21 00:21:49,700] {processor.py:153} INFO - Started process (PID=3815) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:21:49,702] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:21:49,703] {logging_mixin.py:115} INFO - [2023-03-21 00:21:49,703] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:21:49,779] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:21:49,805] {logging_mixin.py:115} INFO - [2023-03-21 00:21:49,805] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:21:49,830] {logging_mixin.py:115} INFO - [2023-03-21 00:21:49,830] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:21:49,840] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.145 seconds
+[2023-03-21 00:22:19,935] {processor.py:153} INFO - Started process (PID=3880) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:22:19,936] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:22:19,937] {logging_mixin.py:115} INFO - [2023-03-21 00:22:19,937] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:22:20,008] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:22:20,035] {logging_mixin.py:115} INFO - [2023-03-21 00:22:20,035] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:22:20,060] {logging_mixin.py:115} INFO - [2023-03-21 00:22:20,060] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:22:20,070] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.141 seconds
+[2023-03-21 00:22:50,185] {processor.py:153} INFO - Started process (PID=3936) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:22:50,186] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:22:50,187] {logging_mixin.py:115} INFO - [2023-03-21 00:22:50,187] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:22:50,259] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:22:50,284] {logging_mixin.py:115} INFO - [2023-03-21 00:22:50,284] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:22:50,311] {logging_mixin.py:115} INFO - [2023-03-21 00:22:50,311] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:22:50,321] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.141 seconds
+[2023-03-21 00:23:20,595] {processor.py:153} INFO - Started process (PID=4001) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:23:20,598] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:23:20,602] {logging_mixin.py:115} INFO - [2023-03-21 00:23:20,601] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:23:20,766] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:23:20,809] {logging_mixin.py:115} INFO - [2023-03-21 00:23:20,809] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:23:20,863] {logging_mixin.py:115} INFO - [2023-03-21 00:23:20,863] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:23:20,881] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.300 seconds
+[2023-03-21 00:23:51,018] {processor.py:153} INFO - Started process (PID=4066) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:23:51,019] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:23:51,020] {logging_mixin.py:115} INFO - [2023-03-21 00:23:51,020] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:23:51,093] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:23:51,120] {logging_mixin.py:115} INFO - [2023-03-21 00:23:51,120] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:23:51,144] {logging_mixin.py:115} INFO - [2023-03-21 00:23:51,144] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:23:51,155] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.141 seconds
+[2023-03-21 00:24:21,297] {processor.py:153} INFO - Started process (PID=4122) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:24:21,298] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:24:21,299] {logging_mixin.py:115} INFO - [2023-03-21 00:24:21,299] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:24:21,371] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:24:21,398] {logging_mixin.py:115} INFO - [2023-03-21 00:24:21,398] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:24:21,423] {logging_mixin.py:115} INFO - [2023-03-21 00:24:21,423] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:24:21,433] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.140 seconds
+[2023-03-21 00:24:51,633] {processor.py:153} INFO - Started process (PID=4187) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:24:51,634] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:24:51,635] {logging_mixin.py:115} INFO - [2023-03-21 00:24:51,635] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:24:51,712] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:24:51,739] {logging_mixin.py:115} INFO - [2023-03-21 00:24:51,739] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:24:51,766] {logging_mixin.py:115} INFO - [2023-03-21 00:24:51,766] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:24:51,777] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.149 seconds
+[2023-03-21 00:25:22,354] {processor.py:153} INFO - Started process (PID=4252) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:25:22,355] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:25:22,356] {logging_mixin.py:115} INFO - [2023-03-21 00:25:22,356] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:25:22,438] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:25:22,464] {logging_mixin.py:115} INFO - [2023-03-21 00:25:22,464] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:25:22,493] {logging_mixin.py:115} INFO - [2023-03-21 00:25:22,492] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:25:22,504] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.157 seconds
+[2023-03-21 00:25:52,549] {processor.py:153} INFO - Started process (PID=4308) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:25:52,550] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:25:52,552] {logging_mixin.py:115} INFO - [2023-03-21 00:25:52,551] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:25:52,628] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:25:52,659] {logging_mixin.py:115} INFO - [2023-03-21 00:25:52,659] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:25:52,685] {logging_mixin.py:115} INFO - [2023-03-21 00:25:52,685] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:25:52,695] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.150 seconds
+[2023-03-21 00:26:22,904] {processor.py:153} INFO - Started process (PID=4373) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:26:22,905] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:26:22,907] {logging_mixin.py:115} INFO - [2023-03-21 00:26:22,907] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:26:22,984] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:26:23,011] {logging_mixin.py:115} INFO - [2023-03-21 00:26:23,011] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:26:23,037] {logging_mixin.py:115} INFO - [2023-03-21 00:26:23,037] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:26:23,048] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.150 seconds
+[2023-03-21 00:26:53,255] {processor.py:153} INFO - Started process (PID=4438) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:26:53,256] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:26:53,257] {logging_mixin.py:115} INFO - [2023-03-21 00:26:53,257] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:26:53,339] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:26:53,370] {logging_mixin.py:115} INFO - [2023-03-21 00:26:53,370] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:26:53,395] {logging_mixin.py:115} INFO - [2023-03-21 00:26:53,394] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:26:53,406] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.156 seconds
+[2023-03-21 00:27:23,770] {processor.py:153} INFO - Started process (PID=4494) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:27:23,771] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:27:23,773] {logging_mixin.py:115} INFO - [2023-03-21 00:27:23,773] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:27:23,872] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:27:23,928] {logging_mixin.py:115} INFO - [2023-03-21 00:27:23,928] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:27:23,962] {logging_mixin.py:115} INFO - [2023-03-21 00:27:23,962] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:27:23,975] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.213 seconds
+[2023-03-21 00:27:54,153] {processor.py:153} INFO - Started process (PID=4559) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:27:54,155] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:27:54,156] {logging_mixin.py:115} INFO - [2023-03-21 00:27:54,156] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:27:54,233] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:27:54,261] {logging_mixin.py:115} INFO - [2023-03-21 00:27:54,261] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:27:54,286] {logging_mixin.py:115} INFO - [2023-03-21 00:27:54,286] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:27:54,296] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.148 seconds
+[2023-03-21 00:28:24,578] {processor.py:153} INFO - Started process (PID=4614) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:28:24,580] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:28:24,581] {logging_mixin.py:115} INFO - [2023-03-21 00:28:24,581] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:28:24,657] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:28:24,684] {logging_mixin.py:115} INFO - [2023-03-21 00:28:24,684] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:28:24,710] {logging_mixin.py:115} INFO - [2023-03-21 00:28:24,710] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:28:24,720] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.148 seconds
+[2023-03-21 00:28:54,969] {processor.py:153} INFO - Started process (PID=4678) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:28:54,971] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:28:54,974] {logging_mixin.py:115} INFO - [2023-03-21 00:28:54,973] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:28:55,064] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:28:55,100] {logging_mixin.py:115} INFO - [2023-03-21 00:28:55,100] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:28:55,131] {logging_mixin.py:115} INFO - [2023-03-21 00:28:55,131] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:28:55,145] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.185 seconds
+[2023-03-21 00:29:25,533] {processor.py:153} INFO - Started process (PID=4743) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:29:25,534] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:29:25,536] {logging_mixin.py:115} INFO - [2023-03-21 00:29:25,536] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:29:25,670] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:29:25,724] {logging_mixin.py:115} INFO - [2023-03-21 00:29:25,724] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:29:25,775] {logging_mixin.py:115} INFO - [2023-03-21 00:29:25,775] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:29:25,798] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.270 seconds
+[2023-03-21 00:29:56,258] {processor.py:153} INFO - Started process (PID=4799) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:29:56,259] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:29:56,260] {logging_mixin.py:115} INFO - [2023-03-21 00:29:56,260] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:29:56,384] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:29:56,415] {logging_mixin.py:115} INFO - [2023-03-21 00:29:56,414] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:29:56,441] {logging_mixin.py:115} INFO - [2023-03-21 00:29:56,441] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:29:56,452] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.200 seconds
+[2023-03-21 00:30:26,868] {processor.py:153} INFO - Started process (PID=4864) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:30:26,871] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:30:26,873] {logging_mixin.py:115} INFO - [2023-03-21 00:30:26,873] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:30:27,020] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:30:27,053] {logging_mixin.py:115} INFO - [2023-03-21 00:30:27,053] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:30:27,089] {logging_mixin.py:115} INFO - [2023-03-21 00:30:27,089] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:30:27,101] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.241 seconds
+[2023-03-21 00:30:57,692] {processor.py:153} INFO - Started process (PID=4921) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:30:57,693] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:30:57,695] {logging_mixin.py:115} INFO - [2023-03-21 00:30:57,694] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:30:57,784] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:30:57,821] {logging_mixin.py:115} INFO - [2023-03-21 00:30:57,821] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:30:57,852] {logging_mixin.py:115} INFO - [2023-03-21 00:30:57,852] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:30:57,869] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.183 seconds
+[2023-03-21 00:31:28,083] {processor.py:153} INFO - Started process (PID=4983) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:31:28,085] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:31:28,086] {logging_mixin.py:115} INFO - [2023-03-21 00:31:28,086] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:31:28,165] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:31:28,193] {logging_mixin.py:115} INFO - [2023-03-21 00:31:28,193] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:31:28,218] {logging_mixin.py:115} INFO - [2023-03-21 00:31:28,218] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:31:28,230] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.152 seconds
+[2023-03-21 00:31:58,791] {processor.py:153} INFO - Started process (PID=5045) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:31:58,793] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:31:58,799] {logging_mixin.py:115} INFO - [2023-03-21 00:31:58,797] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:31:58,953] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:31:59,044] {logging_mixin.py:115} INFO - [2023-03-21 00:31:59,044] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:31:59,115] {logging_mixin.py:115} INFO - [2023-03-21 00:31:59,114] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:31:59,143] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.369 seconds
+[2023-03-21 00:32:29,949] {processor.py:153} INFO - Started process (PID=5098) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:32:29,950] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:32:29,952] {logging_mixin.py:115} INFO - [2023-03-21 00:32:29,952] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:32:30,114] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:32:30,194] {logging_mixin.py:115} INFO - [2023-03-21 00:32:30,194] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:32:30,263] {logging_mixin.py:115} INFO - [2023-03-21 00:32:30,263] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:32:30,286] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.347 seconds
+[2023-03-21 00:33:00,772] {processor.py:153} INFO - Started process (PID=5160) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:33:00,773] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:33:00,775] {logging_mixin.py:115} INFO - [2023-03-21 00:33:00,775] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:33:00,870] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:33:00,909] {logging_mixin.py:115} INFO - [2023-03-21 00:33:00,908] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:33:00,943] {logging_mixin.py:115} INFO - [2023-03-21 00:33:00,942] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:33:00,953] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.188 seconds
+[2023-03-21 00:33:31,538] {processor.py:153} INFO - Started process (PID=5213) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:33:31,540] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:33:31,541] {logging_mixin.py:115} INFO - [2023-03-21 00:33:31,541] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:33:31,622] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:33:31,651] {logging_mixin.py:115} INFO - [2023-03-21 00:33:31,651] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:33:31,678] {logging_mixin.py:115} INFO - [2023-03-21 00:33:31,678] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:33:31,689] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.155 seconds
+[2023-03-21 00:35:48,052] {processor.py:153} INFO - Started process (PID=47) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:35:48,055] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:35:48,057] {logging_mixin.py:115} INFO - [2023-03-21 00:35:48,057] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:35:48,374] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:35:48,457] {logging_mixin.py:115} INFO - [2023-03-21 00:35:48,457] {manager.py:508} INFO - Created Permission View: can read on DAG:dag_oetker_app
+[2023-03-21 00:35:48,469] {logging_mixin.py:115} INFO - [2023-03-21 00:35:48,468] {manager.py:508} INFO - Created Permission View: can delete on DAG:dag_oetker_app
+[2023-03-21 00:35:48,478] {logging_mixin.py:115} INFO - [2023-03-21 00:35:48,478] {manager.py:508} INFO - Created Permission View: can edit on DAG:dag_oetker_app
+[2023-03-21 00:35:48,479] {logging_mixin.py:115} INFO - [2023-03-21 00:35:48,479] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:35:48,490] {logging_mixin.py:115} INFO - [2023-03-21 00:35:48,490] {dag.py:2390} INFO - Creating ORM DAG for dag_oetker_app
+[2023-03-21 00:35:48,508] {logging_mixin.py:115} INFO - [2023-03-21 00:35:48,507] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-19T00:00:00+00:00, run_after=2023-03-20T00:00:00+00:00
+[2023-03-21 00:35:48,523] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.481 seconds
+[2023-03-21 00:36:18,768] {processor.py:153} INFO - Started process (PID=103) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:36:18,770] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:36:18,772] {logging_mixin.py:115} INFO - [2023-03-21 00:36:18,772] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:36:26,330] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:36:26,461] {logging_mixin.py:115} INFO - [2023-03-21 00:36:26,461] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:36:26,652] {logging_mixin.py:115} INFO - [2023-03-21 00:36:26,652] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:36:26,774] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 8.034 seconds
+[2023-03-21 00:36:57,168] {processor.py:153} INFO - Started process (PID=168) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:36:57,174] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:36:57,177] {logging_mixin.py:115} INFO - [2023-03-21 00:36:57,177] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:37:01,235] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:37:01,345] {logging_mixin.py:115} INFO - [2023-03-21 00:37:01,344] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:37:01,443] {logging_mixin.py:115} INFO - [2023-03-21 00:37:01,442] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:37:01,506] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 4.361 seconds
+[2023-03-21 00:37:31,913] {processor.py:153} INFO - Started process (PID=221) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:37:31,916] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:37:31,917] {logging_mixin.py:115} INFO - [2023-03-21 00:37:31,917] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:37:32,160] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:37:32,184] {logging_mixin.py:115} INFO - [2023-03-21 00:37:32,184] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:37:32,208] {logging_mixin.py:115} INFO - [2023-03-21 00:37:32,208] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:37:32,218] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.309 seconds
+[2023-03-21 00:38:02,541] {processor.py:153} INFO - Started process (PID=283) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:38:02,544] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:38:02,549] {logging_mixin.py:115} INFO - [2023-03-21 00:38:02,548] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:38:02,859] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:38:02,885] {logging_mixin.py:115} INFO - [2023-03-21 00:38:02,885] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:38:02,913] {logging_mixin.py:115} INFO - [2023-03-21 00:38:02,913] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:38:02,924] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.393 seconds
+[2023-03-21 00:38:33,579] {processor.py:153} INFO - Started process (PID=345) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:38:33,580] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:38:33,582] {logging_mixin.py:115} INFO - [2023-03-21 00:38:33,581] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:38:33,816] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:38:33,841] {logging_mixin.py:115} INFO - [2023-03-21 00:38:33,841] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:38:33,863] {logging_mixin.py:115} INFO - [2023-03-21 00:38:33,862] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:38:33,872] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.297 seconds
+[2023-03-21 00:47:35,127] {processor.py:153} INFO - Started process (PID=47) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:47:35,129] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:47:35,132] {logging_mixin.py:115} INFO - [2023-03-21 00:47:35,131] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:47:35,164] {logging_mixin.py:115} INFO - [2023-03-21 00:47:35,162] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/dag_oetker_app.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/dag_oetker_app.py", line 4, in <module>
+    from ..scripts.extract_raw_data import extract_raw_data_ftn
+ImportError: attempted relative import with no known parent package
+[2023-03-21 00:47:35,166] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:47:35,240] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.117 seconds
+[2023-03-21 00:48:05,519] {processor.py:153} INFO - Started process (PID=100) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:48:05,521] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:48:05,522] {logging_mixin.py:115} INFO - [2023-03-21 00:48:05,522] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:48:05,538] {logging_mixin.py:115} INFO - [2023-03-21 00:48:05,536] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/dag_oetker_app.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/dag_oetker_app.py", line 4, in <module>
+    from ..scripts.extract_raw_data import extract_raw_data_ftn
+ImportError: attempted relative import with no known parent package
+[2023-03-21 00:48:05,539] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:48:05,573] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.060 seconds
+[2023-03-21 00:48:36,469] {processor.py:153} INFO - Started process (PID=162) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:48:36,471] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:48:36,473] {logging_mixin.py:115} INFO - [2023-03-21 00:48:36,473] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:48:36,483] {logging_mixin.py:115} INFO - [2023-03-21 00:48:36,482] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/dag_oetker_app.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/dag_oetker_app.py", line 4, in <module>
+    from ..scripts.extract_raw_data import extract_raw_data_ftn
+ImportError: attempted relative import with no known parent package
+[2023-03-21 00:48:36,484] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:48:36,508] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.043 seconds
+[2023-03-21 00:49:06,576] {processor.py:153} INFO - Started process (PID=222) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:49:06,578] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:49:06,579] {logging_mixin.py:115} INFO - [2023-03-21 00:49:06,579] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:49:06,591] {logging_mixin.py:115} INFO - [2023-03-21 00:49:06,590] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/dag_oetker_app.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/dag_oetker_app.py", line 4, in <module>
+    from ..scripts.extract_raw_data import extract_raw_data_ftn
+ImportError: attempted relative import with no known parent package
+[2023-03-21 00:49:06,592] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:49:06,615] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.044 seconds
+[2023-03-21 00:49:34,834] {processor.py:153} INFO - Started process (PID=277) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:49:34,837] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:49:34,839] {logging_mixin.py:115} INFO - [2023-03-21 00:49:34,839] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:49:35,067] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:49:35,143] {logging_mixin.py:115} INFO - [2023-03-21 00:49:35,143] {manager.py:508} INFO - Created Permission View: can read on DAG:dag_oetker_app
+[2023-03-21 00:49:35,152] {logging_mixin.py:115} INFO - [2023-03-21 00:49:35,152] {manager.py:508} INFO - Created Permission View: can edit on DAG:dag_oetker_app
+[2023-03-21 00:49:35,159] {logging_mixin.py:115} INFO - [2023-03-21 00:49:35,159] {manager.py:508} INFO - Created Permission View: can delete on DAG:dag_oetker_app
+[2023-03-21 00:49:35,160] {logging_mixin.py:115} INFO - [2023-03-21 00:49:35,160] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:49:35,167] {logging_mixin.py:115} INFO - [2023-03-21 00:49:35,167] {dag.py:2390} INFO - Creating ORM DAG for dag_oetker_app
+[2023-03-21 00:49:35,177] {logging_mixin.py:115} INFO - [2023-03-21 00:49:35,177] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-19T00:00:00+00:00, run_after=2023-03-20T00:00:00+00:00
+[2023-03-21 00:49:35,189] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.361 seconds
+[2023-03-21 00:49:48,350] {processor.py:153} INFO - Started process (PID=316) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:49:48,351] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:49:48,353] {logging_mixin.py:115} INFO - [2023-03-21 00:49:48,352] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:49:48,648] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:49:48,672] {logging_mixin.py:115} INFO - [2023-03-21 00:49:48,672] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:49:48,702] {logging_mixin.py:115} INFO - [2023-03-21 00:49:48,702] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-19T00:00:00+00:00, run_after=2023-03-20T00:00:00+00:00
+[2023-03-21 00:49:48,721] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.376 seconds
+[2023-03-21 00:50:11,361] {processor.py:153} INFO - Started process (PID=347) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:50:11,362] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:50:11,363] {logging_mixin.py:115} INFO - [2023-03-21 00:50:11,363] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:50:11,586] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:50:11,663] {logging_mixin.py:115} INFO - [2023-03-21 00:50:11,663] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:50:11,685] {logging_mixin.py:115} INFO - [2023-03-21 00:50:11,685] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-19T00:00:00+00:00, run_after=2023-03-20T00:00:00+00:00
+[2023-03-21 00:50:11,701] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.345 seconds
+[2023-03-21 00:50:42,082] {processor.py:153} INFO - Started process (PID=409) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:50:42,083] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:50:42,085] {logging_mixin.py:115} INFO - [2023-03-21 00:50:42,084] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:50:42,467] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:50:42,495] {logging_mixin.py:115} INFO - [2023-03-21 00:50:42,495] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:50:42,518] {logging_mixin.py:115} INFO - [2023-03-21 00:50:42,518] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-19T00:00:00+00:00, run_after=2023-03-20T00:00:00+00:00
+[2023-03-21 00:50:42,538] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.462 seconds
+[2023-03-21 00:50:59,120] {processor.py:153} INFO - Started process (PID=446) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:50:59,121] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:50:59,123] {logging_mixin.py:115} INFO - [2023-03-21 00:50:59,123] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:50:59,426] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:50:59,467] {logging_mixin.py:115} INFO - [2023-03-21 00:50:59,465] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:50:59,577] {logging_mixin.py:115} INFO - [2023-03-21 00:50:59,577] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-19T00:00:00+00:00, run_after=2023-03-20T00:00:00+00:00
+[2023-03-21 00:50:59,636] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.521 seconds
+[2023-03-21 00:51:30,315] {processor.py:153} INFO - Started process (PID=511) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:51:30,316] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:51:30,317] {logging_mixin.py:115} INFO - [2023-03-21 00:51:30,317] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:51:30,537] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:51:30,584] {logging_mixin.py:115} INFO - [2023-03-21 00:51:30,584] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:51:30,622] {logging_mixin.py:115} INFO - [2023-03-21 00:51:30,622] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:51:30,640] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.332 seconds
+[2023-03-21 00:52:01,588] {processor.py:153} INFO - Started process (PID=564) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:52:01,590] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:52:01,591] {logging_mixin.py:115} INFO - [2023-03-21 00:52:01,591] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:52:01,793] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:52:01,818] {logging_mixin.py:115} INFO - [2023-03-21 00:52:01,817] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:52:01,839] {logging_mixin.py:115} INFO - [2023-03-21 00:52:01,839] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:52:01,850] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.267 seconds
+[2023-03-21 00:52:32,262] {processor.py:153} INFO - Started process (PID=626) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:52:32,264] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:52:32,266] {logging_mixin.py:115} INFO - [2023-03-21 00:52:32,265] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:52:32,472] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:52:32,498] {logging_mixin.py:115} INFO - [2023-03-21 00:52:32,498] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:52:32,521] {logging_mixin.py:115} INFO - [2023-03-21 00:52:32,521] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:52:32,531] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.273 seconds
+[2023-03-21 00:53:03,059] {processor.py:153} INFO - Started process (PID=688) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:53:03,060] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:53:03,062] {logging_mixin.py:115} INFO - [2023-03-21 00:53:03,061] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:53:03,277] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:53:03,301] {logging_mixin.py:115} INFO - [2023-03-21 00:53:03,301] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:53:03,323] {logging_mixin.py:115} INFO - [2023-03-21 00:53:03,323] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:53:03,335] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.281 seconds
+[2023-03-21 00:53:33,735] {processor.py:153} INFO - Started process (PID=741) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:53:33,737] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:53:33,739] {logging_mixin.py:115} INFO - [2023-03-21 00:53:33,739] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:53:33,966] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:53:33,990] {logging_mixin.py:115} INFO - [2023-03-21 00:53:33,990] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:53:34,013] {logging_mixin.py:115} INFO - [2023-03-21 00:53:34,012] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:53:34,024] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.295 seconds
+[2023-03-21 00:54:04,531] {processor.py:153} INFO - Started process (PID=803) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:54:04,533] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:54:04,534] {logging_mixin.py:115} INFO - [2023-03-21 00:54:04,534] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:54:04,755] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:54:04,783] {logging_mixin.py:115} INFO - [2023-03-21 00:54:04,783] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:54:04,817] {logging_mixin.py:115} INFO - [2023-03-21 00:54:04,817] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:54:04,831] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.305 seconds
+[2023-03-21 00:54:34,928] {processor.py:153} INFO - Started process (PID=864) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:54:34,930] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 00:54:34,931] {logging_mixin.py:115} INFO - [2023-03-21 00:54:34,931] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:54:35,144] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 00:54:35,166] {logging_mixin.py:115} INFO - [2023-03-21 00:54:35,166] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 00:54:35,196] {logging_mixin.py:115} INFO - [2023-03-21 00:54:35,195] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 00:54:35,247] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.323 seconds
+[2023-03-21 01:21:26,945] {processor.py:153} INFO - Started process (PID=47) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 01:21:26,948] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 01:21:26,950] {logging_mixin.py:115} INFO - [2023-03-21 01:21:26,950] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 01:21:27,393] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 01:21:27,565] {logging_mixin.py:115} INFO - [2023-03-21 01:21:27,565] {manager.py:508} INFO - Created Permission View: can edit on DAG:dag_oetker_app
+[2023-03-21 01:21:27,593] {logging_mixin.py:115} INFO - [2023-03-21 01:21:27,593] {manager.py:508} INFO - Created Permission View: can delete on DAG:dag_oetker_app
+[2023-03-21 01:21:27,617] {logging_mixin.py:115} INFO - [2023-03-21 01:21:27,617] {manager.py:508} INFO - Created Permission View: can read on DAG:dag_oetker_app
+[2023-03-21 01:21:27,621] {logging_mixin.py:115} INFO - [2023-03-21 01:21:27,620] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 01:21:27,647] {logging_mixin.py:115} INFO - [2023-03-21 01:21:27,647] {dag.py:2390} INFO - Creating ORM DAG for dag_oetker_app
+[2023-03-21 01:21:27,696] {logging_mixin.py:115} INFO - [2023-03-21 01:21:27,696] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-19T00:00:00+00:00, run_after=2023-03-20T00:00:00+00:00
+[2023-03-21 01:21:27,735] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.798 seconds
+[2023-03-21 01:21:57,807] {processor.py:153} INFO - Started process (PID=104) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 01:21:57,809] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 01:21:57,811] {logging_mixin.py:115} INFO - [2023-03-21 01:21:57,810] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 01:21:58,205] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 01:21:58,238] {logging_mixin.py:115} INFO - [2023-03-21 01:21:58,238] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 01:21:58,274] {logging_mixin.py:115} INFO - [2023-03-21 01:21:58,274] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 01:21:58,292] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.491 seconds
+[2023-03-21 01:22:28,463] {processor.py:153} INFO - Started process (PID=157) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 01:22:28,465] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 01:22:28,466] {logging_mixin.py:115} INFO - [2023-03-21 01:22:28,466] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 01:22:28,706] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 01:22:28,736] {logging_mixin.py:115} INFO - [2023-03-21 01:22:28,735] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 01:22:28,760] {logging_mixin.py:115} INFO - [2023-03-21 01:22:28,760] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 01:22:28,773] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.314 seconds
+[2023-03-21 01:27:48,728] {processor.py:153} INFO - Started process (PID=47) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 01:27:48,730] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 01:27:48,732] {logging_mixin.py:115} INFO - [2023-03-21 01:27:48,732] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 01:27:48,992] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 01:27:49,155] {logging_mixin.py:115} INFO - [2023-03-21 01:27:49,155] {manager.py:508} INFO - Created Permission View: can delete on DAG:dag_oetker_app
+[2023-03-21 01:27:49,179] {logging_mixin.py:115} INFO - [2023-03-21 01:27:49,179] {manager.py:508} INFO - Created Permission View: can read on DAG:dag_oetker_app
+[2023-03-21 01:27:49,196] {logging_mixin.py:115} INFO - [2023-03-21 01:27:49,196] {manager.py:508} INFO - Created Permission View: can edit on DAG:dag_oetker_app
+[2023-03-21 01:27:49,198] {logging_mixin.py:115} INFO - [2023-03-21 01:27:49,197] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 01:27:49,210] {logging_mixin.py:115} INFO - [2023-03-21 01:27:49,210] {dag.py:2390} INFO - Creating ORM DAG for dag_oetker_app
+[2023-03-21 01:27:49,227] {logging_mixin.py:115} INFO - [2023-03-21 01:27:49,227] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-19T00:00:00+00:00, run_after=2023-03-20T00:00:00+00:00
+[2023-03-21 01:27:49,244] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.521 seconds
+[2023-03-21 01:28:20,221] {processor.py:153} INFO - Started process (PID=104) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 01:28:20,224] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 01:28:20,241] {logging_mixin.py:115} INFO - [2023-03-21 01:28:20,241] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 01:28:20,606] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 01:28:20,666] {logging_mixin.py:115} INFO - [2023-03-21 01:28:20,666] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 01:28:20,728] {logging_mixin.py:115} INFO - [2023-03-21 01:28:20,728] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 01:28:20,766] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.552 seconds
+[2023-03-21 01:28:50,850] {processor.py:153} INFO - Started process (PID=166) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 01:28:50,852] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 01:28:50,854] {logging_mixin.py:115} INFO - [2023-03-21 01:28:50,854] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 01:28:51,212] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 01:28:51,239] {logging_mixin.py:115} INFO - [2023-03-21 01:28:51,239] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 01:28:51,267] {logging_mixin.py:115} INFO - [2023-03-21 01:28:51,267] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 01:28:51,277] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.433 seconds
+[2023-03-21 01:29:21,751] {processor.py:153} INFO - Started process (PID=225) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 01:29:21,753] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 01:29:21,755] {logging_mixin.py:115} INFO - [2023-03-21 01:29:21,755] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 01:29:22,029] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 01:29:22,057] {logging_mixin.py:115} INFO - [2023-03-21 01:29:22,056] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 01:29:22,085] {logging_mixin.py:115} INFO - [2023-03-21 01:29:22,085] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 01:29:22,095] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.348 seconds
+[2023-03-21 01:29:52,422] {processor.py:153} INFO - Started process (PID=281) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 01:29:52,430] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 01:29:52,444] {logging_mixin.py:115} INFO - [2023-03-21 01:29:52,442] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 01:29:53,009] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 01:29:53,050] {logging_mixin.py:115} INFO - [2023-03-21 01:29:53,050] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 01:29:53,088] {logging_mixin.py:115} INFO - [2023-03-21 01:29:53,088] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 01:29:53,103] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.707 seconds
+[2023-03-21 01:30:23,514] {processor.py:153} INFO - Started process (PID=344) to work on /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 01:30:23,516] {processor.py:641} INFO - Processing file /opt/airflow/dags/dag_oetker_app.py for tasks to queue
+[2023-03-21 01:30:23,519] {logging_mixin.py:115} INFO - [2023-03-21 01:30:23,519] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 01:30:23,780] {processor.py:651} INFO - DAG(s) dict_keys(['dag_oetker_app']) retrieved from /opt/airflow/dags/dag_oetker_app.py
+[2023-03-21 01:30:23,806] {logging_mixin.py:115} INFO - [2023-03-21 01:30:23,806] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-21 01:30:23,832] {logging_mixin.py:115} INFO - [2023-03-21 01:30:23,832] {dag.py:2919} INFO - Setting next_dagrun for dag_oetker_app to 2023-03-21T00:00:00+00:00, run_after=2023-03-22T00:00:00+00:00
+[2023-03-21 01:30:23,842] {processor.py:161} INFO - Processing /opt/airflow/dags/dag_oetker_app.py took 0.337 seconds
